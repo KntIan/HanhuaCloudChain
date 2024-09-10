@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "image-carousel": "../../components/carousel/carousel",
+    "product-list": "../../components/ProductList/ProductList",
+    "custom-tab-bar": "../../components/CustomTabBar/CustomTabBar"
+  }
+}

@@ -1,0 +1,22 @@
+
+.custom-navbar.data-v-eb837262 {
+  display: flex;
+  height: 110rpx;
+  background-color: red;
+  color: white;
+  align-items: flex-end;
+  padding: 0 16px;
+  padding-bottom: 18rpx;
+}
+.navbar-left.data-v-eb837262, .navbar-right.data-v-eb837262 {
+  flex: 1;
+}
+.navbar-center.data-v-eb837262 {
+  flex: 6;
+}
+.back-icon.data-v-eb837262 {
+  font-size: 16px;
+}
+.title.data-v-eb837262 {
+  font-size: 18px;
+}

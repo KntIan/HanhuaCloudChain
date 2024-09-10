@@ -1,0 +1,1 @@
+<view class="container data-v-fade7ed2"><swiper class="swiper data-v-fade7ed2" autoplay="{{true}}" interval="{{3000}}" duration="{{500}}"><swiper-item wx:for="{{a}}" wx:for-item="image" wx:key="c" class="data-v-fade7ed2"><image src="{{image.a}}" class="slide-image data-v-fade7ed2" bindtap="{{image.b}}"/></swiper-item></swiper></view>

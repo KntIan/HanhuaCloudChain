@@ -1,0 +1,11 @@
+
+/* .container {
+  padding: 20px;
+} */
+.swiper.data-v-fade7ed2 {
+  height: 300px;
+}
+.slide-image.data-v-fade7ed2 {
+  width: 100%;
+  height: 100%;
+}

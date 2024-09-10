@@ -1,0 +1,1 @@
+<view class="custom-navbar data-v-eb837262"><view wx:if="{{a}}" class="navbar-left data-v-eb837262" bindtap="{{b}}"><label class="back-icon data-v-eb837262">返回</label></view><view class="navbar-center data-v-eb837262"><label class="title data-v-eb837262">{{c}}</label></view><view class="navbar-right data-v-eb837262"><slot name="right"></slot></view></view>

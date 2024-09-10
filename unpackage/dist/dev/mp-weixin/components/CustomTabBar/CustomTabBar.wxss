@@ -1,0 +1,19 @@
+
+.tab-bar.data-v-208a9ade {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 100rpx;
+	background-color: #fff;
+	border-top: 1px solid #ddd;
+}
+.tab-bar-item.data-v-208a9ade {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.icon.data-v-208a9ade {
+	width: 40rpx;
+	height: 40rpx;
+}
